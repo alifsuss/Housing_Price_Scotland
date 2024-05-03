@@ -1,4 +1,9 @@
 addresses:
-- https://maps.app.goo.gl/FjwqoJMeScaRAyEb7
-- https://maps.app.goo.gl/Qg8bkEak6P5npsan9
-- https://maps.app.goo.gl/gUGFkHFh9FmVHNbB6
+- red:
+  - https://maps.app.goo.gl/FjwqoJMeScaRAyEb7
+  - https://maps.app.goo.gl/Qg8bkEak6P5npsan9
+  - https://maps.app.goo.gl/gUGFkHFh9FmVHNbB6
+- blue:
+  - Kampus ITB Bandung
+- green:
+  - Telkom Corporate University
